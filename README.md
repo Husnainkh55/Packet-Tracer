@@ -12,3 +12,9 @@ Connect 6 PC's with a Switch <br>
 <br> Switch(config-vlan)# name IT <br>
 <br> Switch(config-vlan)# exit <br>
 <br> and Vice Versa <br>
+
+<br> Assigning PC1 & PC2 with VLAN 10 <br>
+<br> Assigning PC3 & PC4 with VLAN 20 <br>
+<br> Assigning PC5 & PC6 with VLAN 30 <br>
+
+Check and Verift that Vlan Communicate within the same network/VLAN.
